@@ -18,7 +18,7 @@ body {
     background-image: url("Img/wallpaperflare.com_wallpaper.jpg");
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    height: calc(100vh + 10rem);
     margin: 0;
 }
 header{
